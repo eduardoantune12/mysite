@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3233f57-cfaa-461b-9969-fb213f144b84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/views/post_view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/views/test_post.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +38,20 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;post-views&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;templates&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Pichau/Documents/Estudos/Curso_FullStack_Python/Backend/Mod_1.6/mysite/mysite&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.black.configuration.BlackFormatterConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\Documents\Estudos\Curso_FullStack_Python\Backend\Mod_1.6\mysite\mysite\blog" />
+      <recent name="C:\Users\Pichau\Documents\Estudos\Curso_FullStack_Python\Backend\Mod_1.6\mysite\mysite\blog\models" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,5 +68,15 @@
       <updated>1758823211968</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/blog/views.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
